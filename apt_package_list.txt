@@ -1,0 +1,11 @@
+fish
+nala
+variety
+btop
+kitty
+curl
+bat
+synaptic
+clamtk
+labplot
+indicator-cpufreq
