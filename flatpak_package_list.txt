@@ -23,3 +23,4 @@ org.zotero.Zotero
 org.texstudio.TeXstudio
 net.agalwood.Motrix
 com.freerdp.FreeRDP
+com.github.wwmm.easyeffects
