@@ -10,3 +10,6 @@ synaptic
 clamtk
 labplot
 indicator-cpufreq
+batcat
+neovim
+lsd
